@@ -6,9 +6,9 @@ I'm a **Software Developer Co-op at [Angler Solutions](https://www.anglersolutio
 
 My background spans full-stack development with Next.js, React Native, Node.js and FastAPI. Going forward, I'm focused on **Backend and Data Engineering**.
 
-- 🔭 Currently working on the Geothermal and Nuclear models for [MESO](https://meso.anglersolutions.ca/), and on ephemeral environments for testing features in isolation
+- 🔭 Currently working on developing techno-economic models for [MESO](https://meso.anglersolutions.ca/).
 - 🌱 Currently studying for **AWS Certified Solutions Architect – Associate (SAA-C03)**
-- 🎸 Outside of code: guitar, puzzles, music, reading, food and travel
+- 🎸 Outside of code: Guitar, puzzles, music, reading, food and travel
 
 ## 🛠️ Tech Stack
 
@@ -36,7 +36,7 @@ My background spans full-stack development with Next.js, React Native, Node.js a
 **ACI Motors Limited**: Data Science Intern (Jun – Aug 2023)
 - Built a Python automation tool that reduced data preprocessing time by 75%
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 | Project | Description | Stack |
 |---|---|---|
